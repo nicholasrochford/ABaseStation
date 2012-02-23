@@ -1,4 +1,5 @@
 //
-//BaseStationScreen.c
+//BaseStationScreens.h
 //
-#include<p24fj256da210.h>
+#ifndef BaseStationScreens
+#define BaseStationScreens
